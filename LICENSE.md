@@ -1,6 +1,6 @@
-# License Agreement for [Project Name]
+# License Agreement for Star Track
 
-**© [Your Name / Project Name], [Year]**
+**© Jens Bartsch / Star Track, 2024**
 
 This project is available under a dual-license model: a **non-commercial license** for general use and a **commercial license** for business applications. Please select the license that best fits your intended use.
 
@@ -23,7 +23,7 @@ For detailed information about the CC BY-NC 4.0 license, please visit [Creative 
 
 For any commercial use, including but not limited to incorporating this project into for-profit products, services, or enterprise systems, a **commercial license** is required.
 
-Please contact us at **[your email address]** or visit **[link to website, if available]** to acquire a commercial license. We offer flexible licensing options to accommodate the specific needs of your business.
+Please contact me at **jens.bartsch.97@gmail.com** to acquire a commercial license. I offer flexible licensing options to accommodate the specific needs of your business.
 
 ### Possible Options for Commercial Licensing:
 - One-time licensing fee for use.
@@ -40,9 +40,8 @@ This project is provided "as-is," without any warranty of any kind, including bu
 
 ## 4. Contact
 
-For further questions or specific licensing requirements, please contact us at:
-- **[your email address]**
-- **[link to project website, if available]**
+For further questions or specific licensing requirements, please contact me at:
+- **jens.bartsch.97@gmail.com**
 
 ---
 
