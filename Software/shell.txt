@@ -1,0 +1,15 @@
+# setting i2c to true
+sudo raspi-config nonint do_i2c 0
+# checking for i2c for true = 0 false =1
+sudo raspi-config nonint get_i2c
+
+# enable I2C kernel module
+i2c- bcm2837BO # prozessor von RPI3B+
+i2c-dev
+
+# packages
+sudo apt-get update -y
+sudo apt-get upgrade -y
+sudo apt-get install i2c-tools -y
+sudo apt-get install python3-smbus -y
+sudo reboot -h
